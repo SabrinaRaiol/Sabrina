@@ -3,7 +3,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas;<br>Sou estudante de Pytho
 
 
 ## 🌐 Socials:
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sabrina-raiol-737521236](https://www.linkedin.com/in/sabrina-raiol-737521236/)) 
+[![LinkedIn]([www.linkedin.com/in/sabrina-raiol-737521236) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
